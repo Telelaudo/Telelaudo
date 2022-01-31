@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Telelaudo
-- 📫 How to reach me ... suporte@telelaudo.com.br
+# Telelaudo
 
-<!---
-Telelaudo/Telelaudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Laudos a distância para __tomografia__, __ressonância__, __raios-x__, __mamografia__, __densitometria__ e __odontologia__ elaborados por radiologistas subespecialistas.
+
+Mantenha as suas equipes de médicos radiologistas e técnicos de radiologia sempre completas.
+Atendemos a hospitais e clínicas de qualquer porte em todo o Brasil, 24 horas por dia, 7 dias da semana.
